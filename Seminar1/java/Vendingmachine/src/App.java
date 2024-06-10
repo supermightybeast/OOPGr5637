@@ -4,7 +4,6 @@ import java.util.List;
 import Domen.Bottle;
 import Domen.HotDrink;
 import Domen.Product;
-import Domen.GotDrink;
 import Services.CoinDispenser;
 import Services.Display;
 import Services.Holder;
