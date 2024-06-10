@@ -14,7 +14,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         List<Product> ourList = new ArrayList<>();
-        Product item1 = new Product(100, 1, "Lays");
+        Product item1 = new Product(100, 1, "Lay's");
         Product item2 = new Product(50, 2, "Cola");
         Product item3 = new Bottle(150, 3, "Mineral Water", 101, (float)1.5);
         Product item4 = new HotDrink(75, 4, "Coffe", 201, 65);
